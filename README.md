@@ -1,6 +1,15 @@
+# A propos
+
+Ceci est un fork de [MKorostoff](https://mkorostoff.github.io/1-pixel-wealth/) pour créer une version française.
+
+# Contributions
+
+Si vous voulez participer à améliorer cette version française, n'hésitez pas à faire une issue, pour qu'on puisse en discuter.
+Si vous voulez modifier cette version, vous pouvez toujours faire un fork de la mienne et de suivre les instructions conseillées dans le [git original](https://github.com/MKorostoff/1-pixel-wealth/issues/8#issuecomment-622964168).
+
 # About
 
-Source code for https://mkorostoff.github.io/1-pixel-wealth/
+This is a fork from [MKorostoff](https://mkorostoff.github.io/1-pixel-wealth/) in order to create a french version.
 
 # Translations
 
